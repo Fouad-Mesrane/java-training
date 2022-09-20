@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="InspectionProjectProfileManager">
+    <profile version="1.0">
+      <option name="myName" value="Project Default" />
+    </profile>
+    <version value="1.0" />
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../JavaTrial/JavaTrial.iml" filepath="$PROJECT_DIR$/../../JavaTrial/JavaTrial.iml" />
+    </modules>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="libraryTable">
+    <library name="lib">
+      <CLASSES>
+        <root url="jar://$PROJECT_DIR$/../../JavaTrial/lib/kotlin-stdlib-jdk8.jar!/" />
+        <root url="jar://$PROJECT_DIR$/../../JavaTrial/lib/kotlin-stdlib.jar!/" />
+        <root url="jar://$PROJECT_DIR$/../../JavaTrial/lib/kotlin-test.jar!/" />
+        <root url="jar://$PROJECT_DIR$/../../JavaTrial/lib/kotlin-reflect-sources.jar!/" />
+        <root url="jar://$PROJECT_DIR$/../../JavaTrial/lib/kotlin-test-sources.jar!/" />
+        <root url="jar://$PROJECT_DIR$/../../JavaTrial/lib/kotlin-reflect.jar!/" />
+        <root url="jar://$PROJECT_DIR$/../../JavaTrial/lib/kotlin-stdlib-jdk7-sources.jar!/" />
+        <root url="jar://$PROJECT_DIR$/../../JavaTrial/lib/kotlin-stdlib-jdk8-sources.jar!/" />
+        <root url="jar://$PROJECT_DIR$/../../JavaTrial/lib/kotlin-stdlib-sources.jar!/" />
+        <root url="jar://$PROJECT_DIR$/../../JavaTrial/lib/kotlin-stdlib-jdk7.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</project>
